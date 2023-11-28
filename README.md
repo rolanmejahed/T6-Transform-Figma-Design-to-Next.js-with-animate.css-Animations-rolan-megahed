@@ -1,0 +1,1 @@
+# T6-Transform-Figma-Design-to-Next.js-with-animate.css-Animations-rolan-megahed
